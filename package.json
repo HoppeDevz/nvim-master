@@ -1,0 +1,15 @@
+{
+  "name": "vim-training",
+  "version": "1.0.0",
+  "description": "- Install Windows Terminal (Microsoft Store)\r  - Extract this in any folder and create ambient variable\r  - Download some NerdFont (https://www.nerdfonts.com/font-downloads)\r  - Apply any NerdFont and some background image to windows terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
