@@ -1,5 +1,7 @@
 ## My NVIM Settings
 
+<img src="https://i.imgur.com/vaWlr8p.png" />
+
 ### How to install nvim in windows
 
  - Install Windows Terminal (Microsoft Store)
